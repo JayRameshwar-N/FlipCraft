@@ -1,11 +1,8 @@
 # project-dummy-flipkart
 this project is real flipkart application base (dummy flipkart) ❗〽
-# project-dummy-flipkart
-this project is real flipkart application base (dummy flipkart) ❗〽
 
 
-# # Project__flipkartCom
-
+....
 # creatUsers - (meins signUp) firstName, LastName, dateOfBirth, MobaileNambar, address, email, liveLocation.
    this type is schema.
 1- getUser
